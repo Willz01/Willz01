@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >#### INTERESTS
 > ###### Backend development
 > 
-> Python. Java, Node.js, Javascript
+> Python, Java, Node.js, Javascript
 > 
 > ###### Distributed communication
 
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=yellow">
   </a>
+	....
 </p>
 
 ![Wills's github stats](https://github-readme-stats.vercel.app/api?username=Willz01&show_icons=true&theme=dark&count_private=true)
