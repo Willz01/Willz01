@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 ## Hello, Wills here!
 
-
->#### INFO
->Currently in my final year of my Bachelors program in Computer science.
-
 >#### INTERESTS
 > ###### Backend development
 > 
